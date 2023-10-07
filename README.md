@@ -1,6 +1,8 @@
 # freight-time-prediction
 > Este projeto foi desenvolvido na disciplina de Introdução à Ciência de Dados no Programa de Especialização em Software da Embraer em parceria com o CIn-UFPE, realizado em 2023
 
+Repositório com análises de dados de e-commerce e predição do tempo de entrega de pedidos.
+
 **Estrutura de Arquivos:**
 - Pasta data/: possui os arquivos .csv utilizados nos projetos
 - Pasta imgs/: possui imagens utilziadas nos notebooks
