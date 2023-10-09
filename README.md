@@ -24,4 +24,5 @@ Repositório com análises de dados de e-commerce e predição do tempo de entre
 - Preparação de dados para modelagem: sklearn (RobustScaler, MinMaxScaler, OrdinalEncoder)
 - Workflow de modelagem: sklearn (train_test_split para separação dos dados, Pipeline e ColumnTransformer para evitar data leakage e facilitar reprodução do processo de treinamento, GridSearchCV e RandomizedSearchCV para realização de treino e validação utilizando Cross-Validation com busca de hiper-parâmetros)
 - Modelagem: sklearn (LinearRegression, Ridge e RandomForestRegressor) e lightgbm
+- Log de modelos e métricas: mlflow
 - Métrica de avaliação: sklearn (mean_squared_error)
